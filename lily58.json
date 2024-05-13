@@ -49,7 +49,7 @@
       "KC_LALT",
       "KC_LGUI",
       "MO(1)",
-      "MT(MOD_LSFT | MOD_RSFT,KC_ENT)",
+      "MT(MOD_LSFT,KC_ENT)",
       "KC_LBRC",
       "KC_GRV",
       "KC_0",
